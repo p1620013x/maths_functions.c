@@ -14,6 +14,8 @@ int main()
 
     // Displays sum      
     printf("%d / %d = %d\n", firstNumber, secondNumber, divideOfTwoNumbers);
+    
+    printf("Thank you for using my program :)");
 
     return 0;
 }
